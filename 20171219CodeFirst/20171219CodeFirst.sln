@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstUI", "CodeFirstUI\CodeFirstUI.csproj", "{BA53E936-5C4D-4B4D-B683-5B42F0452D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{358ABEC7-2083-4FB2-BB12-9FDD7ED55AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityManuelMigration", "EntityManuelMigration\EntityManuelMigration.csproj", "{F6C17443-60B9-410D-A054-57872953458D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA53E936-5C4D-4B4D-B683-5B42F0452D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA53E936-5C4D-4B4D-B683-5B42F0452D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA53E936-5C4D-4B4D-B683-5B42F0452D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA53E936-5C4D-4B4D-B683-5B42F0452D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358ABEC7-2083-4FB2-BB12-9FDD7ED55AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358ABEC7-2083-4FB2-BB12-9FDD7ED55AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358ABEC7-2083-4FB2-BB12-9FDD7ED55AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358ABEC7-2083-4FB2-BB12-9FDD7ED55AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C17443-60B9-410D-A054-57872953458D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C17443-60B9-410D-A054-57872953458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C17443-60B9-410D-A054-57872953458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C17443-60B9-410D-A054-57872953458D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

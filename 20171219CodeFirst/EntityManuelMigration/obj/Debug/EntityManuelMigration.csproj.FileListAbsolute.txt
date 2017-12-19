@@ -1,0 +1,14 @@
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityManuelMigration.dll.config
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityManuelMigration.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityManuelMigration.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityFramework.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityFramework.xml
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.csprojResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.Migrations.FirstMigration.resources
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.csproj.GenerateResource.Cache
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.Migrations.SecondMigration.resources
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\EntityManuelMigration\obj\Debug\EntityManuelMigration.Migrations.ThirdMigration.resources

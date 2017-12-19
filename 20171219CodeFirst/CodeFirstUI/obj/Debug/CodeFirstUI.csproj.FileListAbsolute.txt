@@ -1,0 +1,12 @@
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\CodeFirstUI.dll.config
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\CodeFirstUI.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\CodeFirstUI.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\Entity.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\EntityFramework.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\EntityFramework.SqlServer.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\Entity.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\EntityFramework.xml
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\bin\EntityFramework.SqlServer.xml
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\obj\Debug\CodeFirstUI.csprojResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\obj\Debug\CodeFirstUI.dll
+c:\users\faruk\documents\visual studio 2013\Projects\20171219CodeFirst\CodeFirstUI\obj\Debug\CodeFirstUI.pdb
