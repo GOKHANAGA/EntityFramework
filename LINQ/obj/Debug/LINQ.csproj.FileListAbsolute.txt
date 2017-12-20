@@ -1,0 +1,5 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171215LINQ_EntityFramework\LINQ\bin\LINQ.dll.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171215LINQ_EntityFramework\LINQ\bin\LINQ.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171215LINQ_EntityFramework\LINQ\bin\LINQ.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171215LINQ_EntityFramework\LINQ\obj\Debug\LINQ.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171215LINQ_EntityFramework\LINQ\obj\Debug\LINQ.pdb
