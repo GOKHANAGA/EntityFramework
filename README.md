@@ -1,1 +1,2 @@
 # EntityFramework
+#LIN QUERIES ARE IN FORM FILE
